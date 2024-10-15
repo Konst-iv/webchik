@@ -1,0 +1,2 @@
+C:\Users\vaniy\source\repos\web\web\obj\Debug\web.vbproj.AssemblyReference.cache
+C:\Users\vaniy\source\repos\web\web\obj\Debug\web.vbproj.CoreCompileInputs.cache
